@@ -2,3 +2,9 @@
 
 ## Respostas:
 ### Eu não sei o que estou fazendo aqui haha
+
+
+
+## contribuidores:
+### Joao
+### Rian
