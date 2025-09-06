@@ -1,15 +1,4 @@
-# "Qual sua linguagem de programação favorita e por quê?"
-
-## Respostas:
-### Eu não sei o que estou fazendo aqui haha
-
-
-
-## contribuidores:
-### Joao
-### Rian
-
-####
+# Aprendendo Branch e Merge
 
 
 C:\git\teste2>git branch
